@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "8089EE54-FAEE-4826-B98F-209C9D215C13",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "testTimeoutsEnabled" : true
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Patchy.xcodeproj",
+        "identifier" : "48667A8F2E27C645000894A1",
+        "name" : "PatchyTests"
+      }
+    }
+  ],
+  "version" : 1
+}
