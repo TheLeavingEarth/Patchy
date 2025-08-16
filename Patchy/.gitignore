@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 # macOS system files
-.DS_Store
+ .DS_Store
 
 # Xcode user settings
 *.xcuserstate
@@ -22,3 +22,25 @@ Pods/
 .DS_Store
 assets/.DS_Store
 >>>>>>> 639f0f9 (git add ../.DS_Store)
+=======
+# macOS system files
+.DS_Store
+
+# Xcode user settings
+*.xcuserstate
+*.xcuserdata/
+*.xccheckout
+
+# Build products
+build/
+DerivedData/
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# Cocoapods
+Pods/
+
+../.DS_Store
+>>>>>>> 6ef68a2 (Добавлен .gitignore)
