@@ -1,0 +1,19 @@
+# macOS system files
+.DS_Store
+
+# Xcode user settings
+*.xcuserstate
+*.xcuserdata/
+*.xccheckout
+
+# Build products
+build/
+DerivedData/
+
+# Swift Package Manager
+.swiftpm/
+.build/
+
+# Cocoapods
+Pods/
+
