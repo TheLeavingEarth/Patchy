@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # macOS system files
 .DS_Store
 
@@ -17,3 +18,7 @@ DerivedData/
 # Cocoapods
 Pods/
 
+=======
+.DS_Store
+assets/.DS_Store
+>>>>>>> 639f0f9 (git add ../.DS_Store)
