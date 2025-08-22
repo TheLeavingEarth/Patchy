@@ -2,7 +2,7 @@
 
 
 <p align="left">
-  <img src="./Patchy/assets/patchy.png" width="300" alt="Patchy Logo" />
+  <img src="./Assets/patchy.png" width="300" alt="Patchy Logo" />
 </p>
 
 
@@ -17,7 +17,12 @@ iOS-приложение для быстрого и удобного веден�
 - Поиск и фильтрация по ремонтам
 - Добавление фотографий
 - Поддержка тёмной темы
-
+  
+<p align="left">
+  <img src="./Assets/screen.png" width="600" alt="sсreen" />
+  <br>
+  <img src="./Assets/setting.png" width="600" alt="setting" />
+</p>
 ---
 
   🚀 Планы развития
